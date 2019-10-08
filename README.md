@@ -2,6 +2,7 @@
 
 ![Memoscope.Net Logo](https://raw.githubusercontent.com/fremag/MemoScope.Net/master/MemoScope/Icons/Logos/memoscope_logo.png) | Dump and analyze .Net applications memory
 ---------------------|-------------------------------------------
+
 # Wiki
 Please, read the [wiki](https://github.com/fremag/MemoScope.Net/wiki) to know everything about MemoScope.
 Lot of pictures, animated gifs and some text for every major features.
@@ -56,4 +57,4 @@ Sometimes, users can do weird things with your application and you can't make it
 ## Dump process memory
 ![Dump Process Memory](Screenshots/memoscope_process_dump.png "Dump your process when conditions are satisified")
 
-
+ 
